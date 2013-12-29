@@ -1,8 +1,11 @@
 from setuptools import setup
 
+version = '0.1'
+
 setup(name='taigi_tools',
-    version='0.1',
+    version=version,
     description='Tools for Taiwanese pinyin and character conversions',
+    keywords=['taiwanese', 'pinyin'],
     url='',
     author='Edward Greve',
     author_email='edward.greve@gmail.com',
