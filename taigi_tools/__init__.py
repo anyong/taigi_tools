@@ -1,2 +1,2 @@
-import pinyin
+import tailo
 import hanji
